@@ -7,8 +7,7 @@ Usage::
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import logging
 
-    const ALGOLIA_APP_ID = 'O209R1PN3N';
-    const ALGOLIA_MONITORING_KEY = '476aee33e12b4ef08e8f1ba9c4b638c0';
+test_slack_key = "xoxb-163213206324-FGqsdMF8t38v6N7Oq4i99vs5"
 
 class S(BaseHTTPRequestHandler):
     def _set_response(self):
