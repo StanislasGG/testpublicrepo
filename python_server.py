@@ -9,7 +9,7 @@ import logging
 
 test_slack_key = "xoxb-163213206324-FGqsdMF8t38v6N7Oq4i99vs5"
 test_slack_key = "xoxb-163215206324-FGqsdMF3t38v6N7Oq4i99vs5"
-
+teststan v8.0.0-1234567891
 
 class S(BaseHTTPRequestHandler):
     def _set_response(self):
